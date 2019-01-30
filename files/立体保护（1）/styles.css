@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-51px;
-  width:1109px;
+  left:-38px;
+  width:1132px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -12,25 +12,25 @@
   position:absolute;
   z-index:0;
 }
-#u241_img {
+#u248_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:1109px;
-  height:1070px;
+  width:1132px;
+  height:1236px;
 }
-#u241 {
+#u248 {
   position:absolute;
-  left:51px;
+  left:38px;
   top:60px;
-  width:1109px;
-  height:1070px;
+  width:1132px;
+  height:1236px;
 }
-#u242 {
+#u249 {
   position:absolute;
   left:2px;
-  top:527px;
-  width:1105px;
+  top:610px;
+  width:1128px;
   visibility:hidden;
   word-wrap:break-word;
 }
