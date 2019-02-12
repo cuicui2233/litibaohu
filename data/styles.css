@@ -100,6 +100,19 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table_cell {
+}
+.icon {
+}
+.image {
 }
