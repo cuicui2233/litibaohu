@@ -94,6 +94,9 @@
   text-align:center;
   line-height:normal;
 }
+.marker {
+  color:#FFFFFF;
+}
 .arrow {
 }
 .text_field {
