@@ -1,0 +1,143 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:670px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u217_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:690px;
+}
+#u217 {
+  position:absolute;
+  left:25px;
+  top:30px;
+  width:320px;
+  height:690px;
+}
+#u218 {
+  position:absolute;
+  left:2px;
+  top:337px;
+  width:316px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u219_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:690px;
+}
+#u219 {
+  position:absolute;
+  left:350px;
+  top:30px;
+  width:320px;
+  height:690px;
+}
+#u220 {
+  position:absolute;
+  left:2px;
+  top:337px;
+  width:316px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u221_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u221 {
+  position:absolute;
+  left:460px;
+  top:70px;
+  width:100px;
+  height:30px;
+}
+#u222 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:96px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u223_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:85px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+}
+#u223 {
+  position:absolute;
+  left:468px;
+  top:75px;
+  width:85px;
+  height:20px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+}
+#u224 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:85px;
+  white-space:nowrap;
+}
+#u225 {
+  position:absolute;
+  left:10px;
+  top:50px;
+  width:70px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u226 {
+  position:absolute;
+  left:345px;
+  top:50px;
+  width:70px;
+  height:60px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
