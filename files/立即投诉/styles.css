@@ -1897,8 +1897,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:232px;
-  height:16px;
+  width:210px;
+  height:32px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1908,21 +1908,23 @@
   box-shadow:none;
   font-size:11px;
   color:#FF0000;
+  text-align:center;
 }
 #u315 {
   position:absolute;
-  left:66px;
+  left:77px;
   top:401px;
-  width:232px;
-  height:16px;
+  width:210px;
+  height:32px;
   font-size:11px;
   color:#FF0000;
+  text-align:center;
 }
 #u316 {
   position:absolute;
   left:0px;
   top:0px;
-  width:232px;
+  width:210px;
   white-space:nowrap;
 }
 #u317_div {
